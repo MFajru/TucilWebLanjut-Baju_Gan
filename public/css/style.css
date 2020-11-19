@@ -1,0 +1,59 @@
+.title-home {
+  margin-top: 80px;
+  margin-bottom: 30px;
+}
+
+.title-about {
+  margin-top: 80px;
+  margin-bottom: 10px;
+}
+
+.title-login {
+  padding-bottom: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+.container-login {
+  margin-top: 200px;
+  margin-bottom: 200px;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.link-register {
+  float: right;
+  padding-top: 20px;
+  color: black;
+}
+
+.link-admin {
+  margin-left: 100px;
+}
+
+.img-fluid {
+  width: 400px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.about-desc {
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+}
+
+.price {
+  text-align: center;
+  color: green;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
